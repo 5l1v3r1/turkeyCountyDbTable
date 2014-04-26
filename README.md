@@ -12,7 +12,7 @@ County Database Table of Turkey
 | 17 | Besni         | 02
 
 
-Total Row in Table : 919
+Total Row in Table : 960 ( Included County Central Register )
 
 Data Source        : https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx
 
